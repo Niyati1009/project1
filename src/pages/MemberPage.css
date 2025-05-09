@@ -1,0 +1,11 @@
+.member-container {
+    background: #f0fff0;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .project-list {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
